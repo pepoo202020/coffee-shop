@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Satisfy&display=swap');
+
+.mainHead,
+.aboutHeading,
+.popularHeading,
+.testimonialsHeading,
+.testimonialsSubTitle,
+.orderHeading,
+.header01,
+.sectionHead {
+    font-family: 'Satisfy', cursive;
+}
+
+.mainHead {
+    line-height: 1.2 !important;
+}
+
+.testimonialsHeading {
+    line-height: 1.5 !important;
+}
+
+.subtitle {
+    font-family: 'Lato', sans-serif;
+}
+
+.action,
+.paragraph,
+.productTitle,
+.productDesc,
+.orderSubTitle,
+.header01Sub,
+.linksHeader {
+    font-family: 'Lato', sans-serif;
+}
